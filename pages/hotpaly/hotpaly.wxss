@@ -1,0 +1,106 @@
+.content{
+    width: 100%;
+
+}
+.head_bg{
+    width: 100%;
+    height: 160rpx;
+}
+.head_bg>image{
+    width: 100%;
+    height: 100%;
+}
+.all{
+    width: 95%;
+    height: 241rpx;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+}
+.infoLeft{
+    width: 154rpx;
+    height: 100%; 
+    display: flex;
+     align-items: center;
+}
+.infoRight{
+    width: 556rpx;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 10pt;
+    color:#626262;
+    border-bottom: 1rpx solid #f1f1f1
+    
+}
+.part1_center{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    line-height: 45rpx;
+    margin-top: 70rpx;
+   
+}
+.part1_buy>text{
+    width: 100rpx;
+    height: 58rpx;
+    border:1px solid #d46e60;
+    color: #d46e60;
+    border-radius: 10rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.filmName{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.part2{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height:165rpx;
+}
+.part2_top,.part2_down{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    font-size: 10pt;
+
+}
+.part2_top_left{
+    width: 134rpx;
+    flex-direction: row-reverse;
+}
+.part2_top_left>text{
+    width: 68rpx;
+    height: 44rpx;
+    color: #ee9619
+}
+.part2_top_right{
+    width: 556rpx;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 35rpx;
+    color: #4e4e4e;
+    border-bottom: 1px solid #f1f1f1
+}
+.part2_down_right,.part3_right{
+    border-bottom: 0;
+}
+.part3{
+    width: 100%;
+    height: 241rpx;
+    border-top: 1px solid #f1f1f1;
+    border-bottom: 1px solid #f1f1f1
+}
+.part4{
+    border-top: 0;
+    
+}

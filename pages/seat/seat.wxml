@@ -1,0 +1,299 @@
+<!--pages/seat/seat.wxml-->
+<!--选座-->
+<view class="xz_head">
+<view class="xz_headL">
+<text class="xz_dm">太平洋影城(新城市店)</text>
+<view class="xz_headLx">
+<text>今天10月21日</text><text class="xz_sj">17:30</text><label>国语3D</label>
+</view>
+</view>
+
+
+<view class="xz_headR">换一场</view>
+</view>
+<!--座位类型-->
+<view class="xz_leix">
+<view class="xz_kx">
+<image src="../../img/seat/seat1.png"></image>
+<label>可选</label>
+</view>
+
+<view class="xz_kx">
+<image src="../../img/seat/seat2.png"></image>
+<label>已售</label>
+</view>
+
+<view class="xz_kx">
+<image src="../../img/seat/seat3.png"></image>
+<label>已选</label>
+</view>
+
+<view class="xz_qlz">
+<image src="../../img/seat/seat4.png"></image>
+<label>情侣座</label>
+</view>
+
+</view>
+<!--影厅座位-->
+<view class="xz_zw">
+
+<!--屏幕-->
+<view class="xz_pingmu">
+<text>激光三号厅荧幕</text>
+</view>
+
+<!--座位行数区-->
+<view class="xz_xzxz">
+
+<!--行位号-->
+<view class="xz_hangweihao">
+<text class="hwh1">1</text>
+<text>2</text>
+<text>3</text>
+<text>4</text>
+<text></text>
+<text>5</text>
+<text>6</text>
+<text>7</text>
+<text>8</text>
+<text>9</text>
+<text>10</text>
+<text>11</text>
+</view>
+
+<!--座位-->
+<view class="xz_zuoweiDa">
+<!--1行-->
+<view class="xz_yihang">
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--2行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--3行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--4行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--空5行-->
+<view class="xz_yihang">
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+<image src=""></image>
+</view>
+<!--5行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src=""></image>
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--6行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src=""></image>
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--7行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src=""></image>
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--8行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src=""></image>
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--9行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src=""></image>
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--10行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src=""></image>
+<image src=""></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+<!--11行-->
+<view class="xz_yihang">
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+<image src="../../img/seat/seat1.png"></image>
+</view>
+</view>
+</view>
+</view>
+<!--脚-->
+<view class="xz_foot">
+    <view class="xz_footH2">推荐座位</view>
+    <view class="xz_footRs">
+    <text>1人</text>
+    <text>2人</text>
+    <text>3人</text>
+    <text>4人</text>
+    <text>5人</text>
+    </view>
+    <view class="xz_footer">
+    <text>一次最多选择5个座位</text>
+    <label>请先选座</label>
+    </view>
+</view>

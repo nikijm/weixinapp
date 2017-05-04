@@ -1,0 +1,5 @@
+<template name="reg">
+<view class="checkBox" wx:if="{{showError}}">
+{{errorInfo}}
+</view>
+</template>

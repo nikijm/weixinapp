@@ -1,0 +1,91 @@
+/* pages/reg/reg.wxss */
+.checkBox{
+    width: 100%;
+    height: 90rpx;
+    background-color: palevioletred;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    width: 100%;
+    height: 1300rpx;
+    background-color: #f5f5f5;
+}
+.part1{
+    width: 95%;
+    height: 118rpx;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 11pt;
+    color: #8c8c8c;
+    font-weight: 700;
+    
+}
+.part1_1{
+    width:60rpx;
+    height: 32rpx;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.first{
+    display: inline-block;
+    width:8rpx;
+    height: 8rpx;
+    border-radius: 50%;
+    background-color: #d04036;
+    
+}
+.second{
+   display: inline-block;
+    width:8rpx;
+    height: 8rpx;
+    border-radius: 50%;
+    background-color: #b76864; 
+}
+.third{
+    display: inline-block;
+    width:8rpx;
+    height: 8rpx;
+    border-radius: 50%;
+    background-color: #989895;
+}
+.part2{
+    width: 100%;
+    height: 103rpx;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 11pt;
+
+}
+.labela{
+    width: 220rpx;
+    height: 103rpx;
+     display: flex;
+    align-items: center;
+    justify-content: center
+    
+}
+input{
+    width: 80%;
+    height: 103rpx;
+}
+button{
+    width: 90%;
+    color: white;
+    margin-top: 64rpx;
+    background-color: #eed6aa;
+}
+.order{
+font-size: 11pt;
+color:#6d6d6d;
+font-weight:700;
+margin-top: 20rpx;
+ padding-left: 30rpx;
+}

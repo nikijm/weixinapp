@@ -1,0 +1,185 @@
+<view class="content">
+
+<view class="head">
+<icon type="search" class="iconn" size="18"/>
+<input confirm-type="search" placeholder="找影视剧、影人、影院" focus/>
+</view>
+<view class="titleApps">
+<view class="titleApps_center">
+
+<view class="titleApps_top">
+
+<view class="todayTop">
+<image src="../../img/find/find_03.gif"></image>
+<text>今日TOP10</text>
+</view>
+
+<view class="todayTop">
+<image src="../../img/find/find_05.gif"></image>
+<text>影视快讯</text>
+</view>
+
+<view class="todayTop">
+<image src="../../img/find/find_07.gif"></image>
+<text>好片推荐</text>
+</view>
+
+<view class="todayTop">
+<image src="../../img/find/find_09.gif"></image>
+<text>预告片推荐</text>
+</view>
+</view>
+
+<view class="titleApps_top">
+
+<view class="todayTop">
+<image src="../../img/find/find_15.gif"></image>
+<text>大咖来了</text>
+</view>
+
+<view class="todayTop">
+<image src="../../img/find/find_16.gif"></image>
+<text>美图</text>
+</view>
+
+<view class="todayTop">
+<image src="../../img/find/find_17.gif"></image>
+<text>周边商城</text>
+</view>
+
+<view class="todayTop">
+<image src="../../img/find/find_18.gif"></image>
+<text>实时买票</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="today">
+<text>今天</text>
+</view>
+
+<view class="part1">
+<view class="part1_text">
+<text>电影扫地僧：心理研究者谈《惊天破》犯罪心理学套路</text>
+</view>
+
+<view class="part1_pic">
+<image src="../../img/find/find_24.gif"></image>
+<image src="../../img/find/find_25.gif"></image>
+<image src="../../img/find/find_27.gif"></image>
+</view>
+
+<view class="part1_S">
+<text>电影扫地僧</text>
+<view class="part1_S_r">
+<image src="../../img/find/yanjk.png" style="width:40rpx;height:28rpx"></image>
+<text style="margin-right:28rpx">1875</text>
+<image src="../../img/find/pinglun_03.gif" style="width:32rpx;height:28rpx"></image>
+<text>8</text>
+</view>
+</view>
+</view>
+
+<view class="part2">
+<view class="part2_pic">
+<image src="../../img/find/dddd_03.gif"></image>
+</view>
+<view class="part2_right">
+<view class="part2_p">
+<text>王菲有望献综艺首秀，节目记录演唱会诞生过程</text>
+</view>
+<view class="part1_S">
+<text>影讯速报</text>
+<view class="part1_S_r">
+<image src="../../img/find/yanjk.png" style="width:40rpx;height:28rpx"></image>
+<text style="margin-right:28rpx">55</text>
+<image src="../../img/find/pinglun_03.gif" style="width:32rpx;height:28rpx"></image>
+<text>8</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="part3 part2">
+<view class="part2_pic">
+<image src="../../img/find/dddd_03.gif"></image>
+</view>
+<view class="part2_right">
+<view class="part2_p">
+<text>《全世界》超7.86亿，创国产爱情电影票房新纪录</text>
+</view>
+<view class="part1_S">
+<text>猫眼资讯</text>
+<view class="part1_S_r">
+<image src="../../img/find/yanjk.png" style="width:40rpx;height:28rpx"></image>
+<text style="margin-right:28rpx">1024</text>
+<image src="../../img/find/pinglun_03.gif" style="width:32rpx;height:28rpx"></image>
+<text>8</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="part4 part1">
+<view class="part1_text">
+<text>张嘉佳是要拿这部片子来谋害王家卫和梁朝伟吗？</text>
+</view>
+<view class="part1_pic">
+<image src="../../img/find/dddd_06.gif"></image>
+<image src="../../img/find/dddd_08.gif"></image>
+<image src="../../img/find/dddd_10.gif"></image>
+</view>
+<view class="part1_S">
+<text>毒药</text>
+<view class="part1_S_r">
+<image src="../../img/find/yanjk.png" style="width:40rpx;height:28rpx"></image>
+<text style="margin-right:28rpx">185</text>
+<image src="../../img/find/pinglun_03.gif" style="width:32rpx;height:28rpx"></image>
+<text>8</text>
+</view>
+</view>
+</view>
+
+<view class="part5 part2">
+<view class="part2_pic">
+<image src="../../img/find/naicha_03.gif"></image>
+</view>
+<view class="part2_right">
+<view class="part2_p">
+<text>刘强东朋友圈发飙：谁再提“奶茶妹”，我跟谁急！</text>
+</view>
+<view class="part1_S">
+<text>影讯速报</text>
+<view class="part1_S_r">
+<image src="../../img/find/yanjk.png" style="width:40rpx;height:28rpx"></image>
+<text style="margin-right:28rpx">700</text>
+<image src="../../img/find/pinglun_03.gif" style="width:32rpx;height:28rpx"></image>
+<text>8</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="part6 part1">
+<view class="part1_text">
+<text>能写满分作文的明星，除了胡歌，还有王凯董子健吴秀波</text>
+</view>
+<view class="part1_pic">
+<image src="../../img/find/hugee_05.gif"></image>
+<image src="../../img/find/hugee_07.gif"></image>
+<image src="../../img/find/hugee_03.gif"></image>
+</view>
+<view class="part1_S">
+<text>毒药</text>
+<view class="part1_S_r">
+<image src="../../img/find/yanjk.png" style="width:40rpx;height:28rpx"></image>
+<text style="margin-right:28rpx">185</text>
+<image src="../../img/find/pinglun_03.gif" style="width:32rpx;height:28rpx"></image>
+<text>8</text>
+</view>
+</view>
+</view>
+
+
+</view>

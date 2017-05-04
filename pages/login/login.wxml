@@ -1,0 +1,70 @@
+
+<import src="../../template/template"/>
+<template is="reg" data="{{...item}}" />
+<view class="content">
+  <view class="top">
+    <view class="top_top">
+      <image src="../../img/login/logo_03.gif" style="width:138rpx;height:138rpx;"></image>
+    </view>
+    <view class="top_down">
+      <text>美团帐号登录</text>
+      <text>忘记密码</text>
+    </view>
+  </view>
+  <view class="input_box">
+    <view class="acc_box">
+      <label>用户名:</label>
+      <input placeholder="邮箱/手机号/用户名" focus bindchange="bindAcc"/>
+    </view>
+    <view class="acc_box pwd_box">
+      <label>密  码:</label>
+      <input placeholder="密码" focus bindchange="bindCheckPwd"/>
+    </view>
+  </view>
+  <button bindtap="bindLogin">登录</button>
+  <view class="reg">
+    <text bindtap="bindReg">立即注册</text>
+    <text>手机号快捷登录></text>
+  </view>
+  <view class="footer">
+  <view class="footer_title">
+  <text>..............</text>
+  <text style="margin-top:20rpx">第三方账号登录</text>
+  <text>..............</text>
+  </view>
+
+  <view class="logos">
+
+  <view class="weixin">
+  <image src="../../img/login/logow_07.gif"></image>
+  <text>微信</text>
+  </view>
+
+  <view class="weixin">
+  <image src="../../img/login/logow_09.gif"></image>
+  <text>QQ</text>
+  </view>
+
+  <view class="weixin">
+  <image src="../../img/login/logow_11.gif"></image>
+  <text>微博</text>
+  </view>
+
+   <view class="weixin">
+  <image src="../../img/login/logow_13.gif"></image>
+  <text>新浪</text>
+  </view>
+  
+  
+  
+  
+  
+  </view>
+  
+  
+  
+  </view>
+
+
+
+</view>

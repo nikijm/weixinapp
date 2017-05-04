@@ -1,0 +1,32 @@
+
+<import src="../../template/template"/>
+<template is="reg" data="{{...item}}" />
+<view class="content">
+  <view class="part1">
+    <text style="color:#d04036">输入手机号</text>
+    <view class="part1_1">
+      <text class="first"></text>
+      <text class="second"></text>
+      <text class="third"></text>
+    </view>
+    <text>输入验证码</text>
+    <view class="part1_1">
+      <text class="third"></text>
+      <text class="third"></text>
+      <text class="third"></text>
+    </view>
+    <text>设置密码</text>
+  </view>
+  <view class="part2">
+    <label class="labela">手机号：</label>
+    <input placeholder="请输入手机号" focus bindchange="getValue"/>
+  </view>
+  <view class="but" bindtap="bindBut">
+    <button>获取验证码</button>
+  </view>
+  <view class="order">
+    <icon type="success" />
+    <text>我已阅读并同意</text>
+    <text style="color:#3da3dc;font-weight:700">美团网用户协议</text>
+  </view>
+</view>

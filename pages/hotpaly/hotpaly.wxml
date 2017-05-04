@@ -1,0 +1,137 @@
+<view class="content">
+<view class="head_bg">
+<image src="../../img/hotPlay/head_02.gif" ></image>
+</view>
+
+<view class="part1 all">
+<view class="part1_left infoLeft">
+<image src="../../img/hotPlay/hhhh_05.gif" style="width:133rpx;height:185rpx;"></image>
+</view>
+<view class="part1_right infoRight">
+<view class="part1_center">
+<view class="filmName">
+<text style="font-weight:700;font-size:12pt;color:#040404" bindtap="bindTodetails">机械师2：复活</text>
+<image src="../../img/hotPlay/hhhh_10.gif" style="width:40rpx;height:34rpx"></image>
+</view>
+<text>观众<text style="color:#fdb506;font-weight:700;font-size:13pt">9.0</text></text>
+<text>杀手森归来，身世谜揭开</text>
+<text>今天112家电影院放映1335场</text>
+</view>
+<view class="part1_buy">
+<text>购票</text>
+</view>
+</view>
+</view>
+
+<view class="part2">
+
+<view class="part2_top">
+<view class="part2_top_left infoLeft  part1_buy">
+<text style="font-size:8pt">资讯</text>
+</view>
+<view class="part2_top_right">
+<text>“极匠九杀”斯坦森变美漫英雄</text>
+</view>
+</view>
+
+<view class="part2_down">
+<view class="part2_top_left infoLeft  part1_buy">
+<text style="font-size:8pt">资讯</text>
+</view>
+<view class="part2_down_right part2_top_right">
+<text>片中的特技动作杰森.斯坦森都亲自上阵</text>
+</view>
+</view>
+</view>
+
+<view class="part3">
+<view class="part1 all">
+<view class="part1_left infoLeft">
+<image src="../../img/hotPlay/hhhh_05.gif" style="width:133rpx;height:185rpx;"></image>
+</view>
+<view class="part3_right infoRight">
+<view class="part1_center">
+<view class="filmName">
+<text style="font-weight:700;font-size:12pt;color:#040404">机械师2：复活</text>
+<image src="../../img/hotPlay/hhhh_10.gif" style="width:40rpx;height:34rpx"></image>
+</view>
+<text>观众<text style="color:#fdb506;font-weight:700;font-size:13pt">9.0</text></text>
+<text>杀手森归来，身世谜揭开</text>
+<text>今天112家电影院放映1335场</text>
+</view>
+<view class="part1_buy">
+<text>购票</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="part4 part3">
+<view class="part1 all">
+<view class="part1_left infoLeft">
+<image src="../../img/hotPlay/hhhh_05.gif" style="width:133rpx;height:185rpx;"></image>
+</view>
+<view class="part3_right infoRight">
+<view class="part1_center">
+<view class="filmName">
+<text style="font-weight:700;font-size:12pt;color:#040404">机械师2：复活</text>
+<image src="../../img/hotPlay/hhhh_10.gif" style="width:40rpx;height:34rpx"></image>
+</view>
+<text>观众<text style="color:#fdb506;font-weight:700;font-size:13pt">9.0</text></text>
+<text>杀手森归来，身世谜揭开</text>
+<text>今天112家电影院放映1335场</text>
+</view>
+<view class="part1_buy">
+<text>购票</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="part4 part3">
+<view class="part1 all">
+<view class="part1_left infoLeft">
+<image src="../../img/hotPlay/hhhh_05.gif" style="width:133rpx;height:185rpx;"></image>
+</view>
+<view class="part3_right infoRight">
+<view class="part1_center">
+<view class="filmName">
+<text style="font-weight:700;font-size:12pt;color:#040404">机械师2：复活</text>
+<image src="../../img/hotPlay/hhhh_10.gif" style="width:40rpx;height:34rpx"></image>
+</view>
+<text>观众<text style="color:#fdb506;font-weight:700;font-size:13pt">9.0</text></text>
+<text>杀手森归来，身世谜揭开</text>
+<text>今天112家电影院放映1335场</text>
+</view>
+<view class="part1_buy">
+<text>购票</text>
+</view>
+</view>
+</view>
+</view>
+
+<view class="part4 part3">
+<view class="part1 all">
+<view class="part1_left infoLeft">
+<image src="../../img/hotPlay/hhhh_05.gif" style="width:133rpx;height:185rpx;"></image>
+</view>
+<view class="part3_right infoRight">
+<view class="part1_center">
+<view class="filmName">
+<text style="font-weight:700;font-size:12pt;color:#040404">机械师2：复活</text>
+<image src="../../img/hotPlay/hhhh_15.gif" style="width:100rpx;height:34rpx"></image>
+</view>
+<text>观众<text style="color:#fdb506;font-weight:700;font-size:13pt">9.0</text></text>
+<text>杀手森归来，身世谜揭开</text>
+<text>今天112家电影院放映1335场</text>
+</view>
+<view class="part1_buy">
+<text>购票</text>
+</view>
+</view>
+</view>
+</view>
+
+
+
+</view>

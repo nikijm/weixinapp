@@ -1,0 +1,12 @@
+<!--pages/waitePaly/waitePaly.wxml-->
+<text>pages/waitePaly/waitePaly.wxml</text>
+<view animation="{{animationData}}" class="pic">
+<image src="../../img/login/logow_07.gif"></image>
+<image src="../../img/login/logow_09.gif"></image>
+<image src="../../img/login/logow_11.gif"></image>
+<image src="../../img/login/logow_13.gif"></image>
+<image src="../../img/login/logow_07.gif"></image>
+<image src="../../img/login/logow_09.gif"></image>
+<image src="../../img/login/logow_11.gif"></image>
+<image src="../../img/login/logow_13.gif"></image>
+</view>

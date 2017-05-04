@@ -1,0 +1,168 @@
+/* pages/details/details.wxss */
+image{
+    font-size: 0;
+}
+/*头部*/
+.xq_head{
+    overflow: hidden;
+   background: #4d4037;
+   width: 100%;
+   height: 448rpx;
+
+}
+.xq_header{
+    overflow: hidden;
+    width: 690rpx;
+    margin: auto;
+}
+.xq_headtop{
+     overflow: hidden;
+     width: 512rpx;
+     display: flex;
+     justify-content: space-between;
+}
+.xq_jxtu,.xq_jxtu image{
+    width: 232rpx;
+    height: 315rpx;
+
+}
+/*头部标题信息*/
+.xq_jxrr{
+    overflow: hidden;
+    width: 248rpx;
+    font-size: 24rpx;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    color: #fff;
+}
+.xq_jxrr view{
+    margin-top: 10rpx;
+}
+.xq_zm{
+    font-size: 36rpx;
+    margin-top: 8rpx;
+}
+.xq_ym{
+    font-size: 20rpx;
+}
+.xq_pingx{
+    display: flex;
+    align-items: center;
+}
+.xq_pingx1{
+    margin-right: 6rpx;
+}
+.xq_pingx1,.xq_pingx1 image{
+    width: 32rpx;
+    height: 32rpx;
+
+}
+.xq_pingx text{
+    font-size: 28rpx;
+    margin-left: 8rpx;
+    color: #fdcf00;
+}
+.xq_lx text{
+ font-size: 15rpx;
+ padding: 6rpx 8rpx;
+ background: #807b78;
+ border-radius: 5rpx;
+ font-weight: 500;
+}
+/*头部下*/
+.xq_headbottom{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30rpx;
+}
+.xq_xk{
+    color: #fff;
+    width: 332rpx;
+    height: 70rpx;
+    border: 1rpx solid #7f756b;
+    border-radius: 8rpx;
+    text-align: center;
+    line-height: 70rpx;
+    font-size: 11pt;
+    
+}
+.xq_xk text{
+    margin-right: 10rpx;
+    color: #cfd1d0;
+}
+
+
+/*详情*/
+.xq_jieshao{
+    padding-top: 36rpx;
+    width: 690rpx;
+    height: 186rpx;
+    margin: auto;
+}
+.xq_jieshao text{
+    display: block;
+    height: 138rpx;
+    overflow: hidden;
+    font-size: 30rpx;
+    margin-bottom: 16rpx;
+}
+.xq_shangx,.xq_shangx image{
+    display: block;
+    width: 34rpx;
+    height: 14rpx;
+    margin: auto;
+}
+/*空灰*/
+.xq_kong{
+    width: 100%;
+    height: 36rpx;
+    background: #f5f5f5;
+}
+/*演职员*/
+.xq_yzy{
+    overflow: hidden;
+ 
+}
+.xq_yzyh2{
+    font-size: 32rpx;
+    overflow: hidden;
+   display: flex;
+    justify-content: space-between;
+    padding: 28rpx 20rpx;
+}
+.xq_yzyl{
+    width: 240rpx;
+     display: flex;
+    justify-content: space-between;
+    font-size: 11pt;
+}
+.xq_yzytu{
+    width: 750rpx;
+    height: 203rpx;
+    overflow: scroll;
+    display: flex;
+
+}
+.xq_yzydy,.xq_yzydy image,.xq_yzyyany,.xq_yzyyany image{
+    width: 145rpx;
+    height: 203rpx;
+}
+.xq_yzydy{
+    margin-right: 20rpx;
+}
+.xq_yzyyany{
+    margin-right: 10rpx;
+}
+.xq_ljgp{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 104rpx;
+    font-size: 36rpx;
+    text-align: center;
+    line-height: 104rpx;
+    background: #f14d41;
+    color: #fff;
+}

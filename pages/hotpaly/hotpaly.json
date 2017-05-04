@@ -1,0 +1,6 @@
+{   "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#db403b",
+    "navigationBarTitleText": "热映",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true
+}

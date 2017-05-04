@@ -1,0 +1,56 @@
+/* pages/ciname/ciname.wxss */
+.content{
+    width: 100%;
+}
+.bg,.bg>image{
+    width: 100%;
+    height: 159rpx;
+}
+.part1{
+    width: 95%;
+    height: 263rpx;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    font-size: 11pt;
+     border-bottom: 1px solid #e5e5e5
+}
+.part1_1{
+    margin: 30rpx 0;
+}
+.part1_2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+    color: #868686;
+    margin-bottom: 19rpx;
+
+}
+.part1_3{
+    font-size: 9pt;
+    margin-bottom: 23rpx;
+}
+.first{
+    border:1px solid #53a1af;
+    color: #53a1af;
+    text-align: center;
+    padding: 3rpx;
+    margin-right: 7rpx;
+}
+.second{
+    background-color: #83c2ea;
+    color: white;
+    text-align: center;
+    padding: 7rpx;
+    margin-right: 7rpx;
+}
+.third{
+    background-color: #fbb850;
+}
+.part1_4{
+    color: #a0a0a0;
+    font-size: 10pt;
+}
+.four{
+     background-color: #ff7e6d;
+}

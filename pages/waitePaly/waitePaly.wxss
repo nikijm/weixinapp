@@ -1,0 +1,6 @@
+/* pages/waitePaly/waitePaly.wxss */
+.pic{
+    height: 500rpx;
+    display: flex;
+    flex-direction: row;
+}

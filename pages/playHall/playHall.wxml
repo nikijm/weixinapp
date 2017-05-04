@@ -1,0 +1,135 @@
+<view class="content">
+  <view class="films_all">
+    <view class="films">
+      <view class="films_left">
+        <view class="films_left_main">
+          <view class="films_left_m">
+            <text style="font-size:11pt">太平洋影城(新城市)</text>
+            <text style="font-size:9pt;color:#f6bc19">8.0</text>
+            <text style="font-size:10pt;color:#f6bc19">分</text>
+          </view>
+          <text style="font-size:10pt;color:#9c9c9c">青羊区西大街1 号新城市广场A栋2楼</text>
+          <view class="films_user">
+            <text>改签</text>
+            <text>取机票</text>
+            <text>儿童优惠</text>
+            <text>可停车</text>
+            <text>WiFi</text>
+          </view>
+        </view>
+        <view class="films_left_S">
+          <text>></text>
+        </view>
+      </view>
+      <view class="films_right">
+        <image src="../../img/playHall/ditu_03.gif" style="width:32rpx;height:37rpx;"></image>
+        <text>地图</text>
+      </view>
+    </view>
+  </view>
+  <view class="part1">
+    <view class="part1_center">
+      <view class="part1_left">
+        <image src="../../img/playHall/SSS_06.gif" style="width:40rpx;height:34rpx;margin-right:28rpx;"></image>
+        <text>折扣卡</text>
+      </view>
+      <view class="part1_right part1_left">
+        <image src="../../img/playHall/SSS_03.gif" style="width:32rpx;height:34rpx;margin-right:28rpx;"></image>
+        <text>观影套餐</text>
+      </view>
+    </view>
+  </view>
+  <view class="film_detail">
+  <view class="film_san"></view>
+
+    <image src="../../img/playHall/jjj_03.gif" class="pic"></image>
+    <image src="../../img/playHall/jjj_06.gif" class="pic"></image>
+    <image src="../../img/playHall/jjj_06.gif" class="pic"></image>
+    <image src="../../img/playHall/jjj_06.gif" class="pic"></image>
+
+    <image src="../../img/playHall/jjj_06.gif" class="pic"></image>
+
+
+
+  </view>
+  <view class="part2">
+    <view class="part2_center">
+      <view class="part2_left">
+        <view class="classname">
+          <text style="font-size:11pt">机械师2:复活 </text>
+          <text style="font-size:9pt;color:#f6bc19">9.0</text>
+          <text style="font-size:10pt;color:#f6bc19">分</text>
+        </view>
+        <text style="font-size:10pt;color:#9c9c9c">片长：97分钟</text>
+      </view>
+      <view class="classname">
+        <text>></text>
+      </view>
+    </view>
+  </view>
+  <view class="balck"></view>
+  <view class="part3">
+  <view class="part3_center">
+  <text>购票享低价,首单更优惠,还送10元礼包</text>
+  <text>33元开卡></text>
+  </view>
+  </view>
+<!--今天-->
+<view class="part4">
+<view class="today">
+<text>今天10月21日</text>
+</view>
+</view>
+<!--场次-->
+<!--场次列表-->
+<view class="yt_cclb">
+<!--场次左-->
+<view class="yt_cclbLeft">
+<view class="yt_kaiSansj">
+<label>17:30</label>
+<text>19:07散场</text>
+</view>
+<view class="yt_yuyant">
+<label>国语3D</label>
+<text>激光3号厅</text>
+</view>
+
+</view>
+<!--场次右-->
+<view class="yt_cclbRight">
+<view class="yt_jiaqian">
+<view class="yt_jinPj"><label>41</label><text>元</text></view>
+<view class="yt_zhehj"><label>折扣卡:</label><text>37元</text></view>
+</view>
+<view class="yt_xzgp" bindtap="bindToSeat">
+选座购票
+</view>
+</view>
+</view>
+<!--场次列表-->
+<view class="yt_cclb">
+<!--场次左-->
+<view class="yt_cclbLeft">
+<view class="yt_kaiSansj">
+<label>17:30</label>
+<text>19:07散场</text>
+</view>
+<view class="yt_yuyant">
+<label>国语3D</label>
+<text>激光3号厅</text>
+</view>
+
+</view>
+<!--场次右-->
+<view class="yt_cclbRight">
+<view class="yt_jiaqian">
+<view class="yt_jinPj"><label>41</label><text>元</text></view>
+<view class="yt_zhehj"><label>折扣卡:</label><text>37元</text></view>
+</view>
+<view class="yt_xzgp">
+选座购票
+</view>
+</view>
+</view>
+  
+</view>

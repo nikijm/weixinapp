@@ -1,0 +1,131 @@
+.content{
+    width: 100%;
+}
+.head{
+    width: 100%;
+    height: 105rpx;
+    background-color: #db403b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+.iconn{
+    position: relative;
+    top:0;
+    left: 180rpx;
+}
+.head>input{
+    width: 60%;
+    height: 60rpx;
+    background-color: white;
+    border-radius: 40rpx;
+    font-size: 10pt;
+    padding-left: 200rpx;
+}
+.titleApps{
+    width: 100%;
+    height: 385rpx;
+    font-size: 9pt;
+}
+.titleApps_center{
+    width: 95%;
+    height: 100%;
+    margin: auto;
+}
+.titleApps_top{
+    width: 100%;
+    height: 171rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.todayTop{
+    width: 165rpx;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.todayTop>image{
+   width: 97rpx;
+   height: 97rpx;
+   display: flex;
+   flex-direction: column;
+   margin-bottom: 17rpx;
+
+}
+.today{
+    width: 100%;
+    height: 61rpx;
+    background-color: #f1f1f1;
+    font-size: 10pt;
+    display: flex;
+    padding-left: 22rpx;
+    align-items: center;
+}
+.part1{
+    width: 95%;
+    height: 403rpx;
+    margin: auto;
+    border-bottom: 1px solid #f1f1f1;
+    display: flex;
+    flex-direction: column
+}
+.part1_text{
+    margin: 27rpx 0 27rpx 0;
+    font-size: 13pt;
+    line-height: 50rpx;
+}
+.part1_pic{
+    width: 100%;
+    height: 172rpx;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 27rpx;
+}
+.part1_pic>image{
+    width: 224rpx;
+    height: 172rpx;
+}
+.part1_S{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 10pt;
+}
+.part1_S_r{
+    display: flex;
+    align-items: center;
+}
+.part2{
+    width: 95%;
+    height: 231rpx;
+    margin: auto;
+    border-bottom: 1px solid #f1f1f1;
+    display: flex;
+    justify-content: space-between
+}
+.part2_pic{
+    width: 224rpx;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.part2_pic>image{
+    width: 224rpx;
+    height: 171rpx;
+}
+.part2_right{
+    width: 452rpx;
+    height: 100%;
+    font-size: 12pt;
+}
+.part2_p{
+    width: 100%;
+    height: 154rpx;
+    display: flex;
+    align-items: center;
+    line-height: 50rpx;
+}

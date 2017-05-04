@@ -1,0 +1,192 @@
+/* pages/seat/seat.wxss */
+image{
+    font-size: 0;
+}
+.xz_head{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 691rpx;
+    height: 137rpx;
+    margin: auto;
+    border-bottom: 1rpx solid #eee;
+    font-weight: 600;
+}
+.xz_headL{
+    overflow: hidden;
+}
+.xz_headLx{
+    overflow: hidden;
+    font-size: 28rpx;
+    color: #989898;
+    margin-top: 20rpx;
+
+}
+.xz_sj{
+    margin: 0 20rpx;
+}
+.xz_headLx label{
+    color: #cc251f;
+}
+.xz_headR{
+    font-size: 24rpx;
+    padding: 14rpx;
+    border: 1rpx solid #eee;
+    border-radius:26rpx;
+}
+/*座位类型*/
+.xz_leix{
+    width: 644rpx;
+    height: 74rpx;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.xz_kx,.xz_qlz{
+    display: flex;
+     align-items: center;
+
+}
+.xz_kx image{
+    width: 32rpx;
+    height: 30rpx;
+    margin-right: 14rpx;
+}
+.xz_kx label,.xz_qlz label{
+    font-size: 30rpx;
+}
+.xz_qlz image{
+    width: 63rpx;
+    height: 30rpx;
+     margin-right: 14rpx;
+}
+
+/*影厅座位*/
+.xz_zw{
+    height: 596rpx;
+    padding: 0 30rpx;
+    overflow:scroll;
+    position: relative;
+    background: #eee;
+}
+.xz_pingmu{
+    margin: auto;
+    position: relative;
+    width: 400rpx;
+    height: 0;
+    border-top: 45rpx solid #dcdcdc;
+    border-left: 20rpx solid transparent;
+    border-right: 20rpx solid transparent;
+    border-bottom-right-radius: 45rpx;
+    border-bottom-left-radius: 45rpx;
+}
+.xz_pingmu text{
+    position: absolute;
+    top: -34rpx;
+    left: 114rpx;
+    font-size: 24rpx;
+}
+/*座位行数区*/
+.xz_xzxz{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+      margin-top: 30rpx;
+      align-items: center;
+      
+
+}
+.xz_hangweihao{
+
+    width: 32rpx;
+    overflow: hidden;
+    height: 440rpx;
+    padding: 30rpx 0;
+    font-size: 18rpx;
+    color: #fff;
+    background: #a8a8a8;
+    border-radius:16rpx; 
+    display: flex;
+     justify-content: space-between;
+     align-items: center;
+      flex-direction: column;
+    
+}
+.xz_hangweihao text{
+    /*height: 18rpx;*/
+    display: block;
+   
+}
+/*座位*/
+.xz_zuoweiDa{
+    overflow: hidden;
+    width: 626rpx;
+    height: 450rpx;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+.xz_zuoweiDa image{
+    width: 32rpx;
+    height:30rpx;
+}
+.xz_yihang{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+/*脚*/
+.xz_foot{
+    overflow: hidden;
+    padding: 22rpx 30rpx 0;
+    margin: auto;
+    
+}
+.xz_footH2{
+    font-size: 28rpx;
+    font-weight: 600;
+}
+.xz_footRs{
+    height: 100rpx;
+    font-size: 26rpx;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1rpx solid #eaeaea;
+}
+.xz_footRs text{
+    width: 128rpx;
+    height: 60rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1rpx solid #eaeaea;
+}
+.xz_footer{
+    overflow: hidden;
+    height: 115rpx;
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+     border-bottom: 1rpx solid #eaeaea;
+     font-size: 30rpx;
+}
+.xz_footer label{
+    font-size: 36rpx;
+    color:#fff;
+    height: 86rpx;
+    width: 315rpx;
+    background: #f5ddb1;
+    display: flex;
+        justify-content:center;
+    align-items: center;
+    border-radius: 10rpx;
+
+
+}

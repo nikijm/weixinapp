@@ -1,0 +1,80 @@
+<!--pages/details/details.wxml-->
+<!--头部-->
+<view class="xq_head">
+<view class="xq_header">
+<!--头部上-->
+<view class="xq_headtop">
+<!--左边图-->
+<view class="xq_jxtu">
+<image src="../../img/details/2_03.png"></image></view>
+<!--右边标题信息-->
+<view class="xq_jxrr">
+<view class="xq_zm">机械师2:复活</view>
+<view class="xq_ym">Mechanic:Resurrection</view>
+<view class="xq_pingx">
+<view class="xq_pingx1"><image src="../../img/details/2_06.png"></image></view>
+<view class="xq_pingx1"><image src="../../img/details/2_06.png"></image></view>
+<view class="xq_pingx1"><image src="../../img/details/2_06.png"></image></view>
+<view class="xq_pingx1"><image src="../../img/details/2_06.png"></image></view>
+<view class="xq_pingx1"><image src="../../img/details/2_08.png"></image></view>
+<text>9.0</text>
+</view>
+<view class="">(7092评分)</view>
+<view class="xq_lx">动作 犯罪 <text>3D</text></view>
+<view class="">美国 法国/97分钟</view>
+<view class="">2016-10-21上映></view>
+</view>
+
+</view>
+
+<!--头部下-->
+
+<view class="xq_headbottom">
+<view class="xq_xk">
+<text>♥</text>想看
+</view>
+<view class="xq_xk">
+<text>★</text>想看
+</view>
+
+</view>
+
+</view>
+</view>
+<!--详情-->
+
+<view class="xq_jieshao">
+<text style="font-size: 11pt;">影片讲述了职业杀手亚瑟为解救爱人不得不完成一系列不可能的暗杀任务。在一桩看似以外的事件中，亚瑟·比索（杰森·斯坦森 饰）的红颜知己影片讲述了职业杀手亚瑟为解救爱人不得不完成一系列不可能的暗杀任务。在一桩看似以外的事件中，亚瑟·比索（杰森·斯坦森 饰）的红颜知己</text>
+<label class="xq_shangx"><image src="../../img/details/下_03.png"></image></label>
+</view>
+<view class="xq_kong"></view>
+<!--演职员-->
+<view class="xq_yzy">
+<view class="xq_yzyh2">
+<view class="xq_yzyl">
+<text>导演</text>
+<text>演员</text>
+
+</view>
+<view class="xq_yzyr" style="font-size: 11pt;">全部 <label>></label></view>
+</view>
+<view class="xq_yzytu">
+<view class="xq_yzydy"><image src="../../img/details/drector.png"></image></view>
+
+<view class="xq_yzyyany"><image src="../../img/details/actor1.png"></image></view>
+<view class="xq_yzyyany"><image src="../../img/details/actor2.png"></image></view>
+<view class="xq_yzyyany"><image src="../../img/details/actor3.png"></image></view>
+<view class="xq_yzyyany"><image src="../../img/details/actor4.png"></image></view>
+<view class="xq_yzyyany"><image src="../../img/details/actor4.png"></image></view>
+<view class="xq_yzyyany"><image src="../../img/details/actor4.png"></image></view>
+<view class="xq_yzyyany"><image src="../../img/details/actor4.png"></image></view>
+</view>
+
+</view>
+
+<view class="xq_ljgp" bindtap="bindToCiname">
+立即购票
+</view>
+
+
+

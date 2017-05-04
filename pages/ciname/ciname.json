@@ -1,0 +1,6 @@
+{   "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#db403b",
+    "navigationBarTitleText": "影院",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true
+}

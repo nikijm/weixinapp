@@ -1,0 +1,42 @@
+
+<view class="content">
+<view class="checkBox" wx:if="{{item.showError}}">
+{{item.errorInfo}}
+</view>
+<view class="part1">
+<text >输入手机号</text>
+    <view class="part1_1">
+        <text class="third"></text>
+        <text class="third"></text>
+        <text class="third"></text>
+    </view>
+<text style="color:#d04036">输入验证码</text>
+    <view class="part1_1">
+        
+        <text class="first"></text>
+        <text class="second"></text>
+        <text class="third"></text>
+    </view>
+<text>设置密码</text>
+</view>
+
+<view class="part2">
+<label class="labela">验证码：</label>
+<input placeholder="请输入验证码" focus bindchange="getcheckValue"/>
+
+</view>
+
+<view class="but" bindtap="bindCheck" >
+<button>确定</button>
+</view>
+
+<view class="order">
+<icon type="success" />
+<text>我已阅读并同意</text>
+<text style="color:#3da3dc;font-weight:700">美团网用户协议</text>
+</view>
+
+
+
+
+</view>

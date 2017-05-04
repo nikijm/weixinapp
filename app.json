@@ -1,0 +1,42 @@
+{
+  "pages":[
+     "pages/hotpaly/hotpaly",
+    "pages/seat/seat",
+    "pages/ciname/ciname",
+    "pages/details/details",
+    "pages/playHall/playHall",
+    "pages/find/find",
+    "pages/waitePaly/waitePaly",
+  
+    "pages/login/login",
+     "pages/reg/reg",
+    "pages/reg/setPWD",
+    "pages/reg/check",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true
+  } ,
+  "tabBar": {
+    "selectedColor":"red",
+    "position":"bottom",
+    "list": [{
+      "iconPath":"img/1_03.gif",
+      "pagePath": "pages/hotpaly/hotpaly",
+      "text": "电影"
+    }, {
+      "iconPath":"img/1_03.gif",
+      "pagePath": "pages/ciname/ciname",
+      "text": "影院"
+    }, {
+      "iconPath":"img/1_03.gif",
+      "pagePath": "pages/find/find",
+      "text": "发现"
+    }]
+  }
+}

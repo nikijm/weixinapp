@@ -1,0 +1,49 @@
+<!--pages/setPWD/setPWD.wxml-->
+<!--pages/reg/reg.wxml-->
+<view class="content">
+<view class="checkBox" wx:if="{{item.showError}}">
+{{item.errorInfo}}
+</view>
+<view class="part1">
+<text>输入手机号</text>
+    <view class="part1_1">
+        <text class="third"></text>
+        <text class="third"></text>
+        <text class="third"></text>
+    </view>
+<text>输入验证码</text>
+    <view class="part1_1">
+        <text class="third"></text>
+        <text class="third"></text>
+        <text class="third"></text>
+    </view>
+<text  style="color:#d04036">设置密码</text>
+</view>
+
+<view class="part2">
+<label class="labela">设置密码：</label>
+<input placeholder="请输入密码" focus type="password" bindchange="getPwd"/>
+
+</view>
+
+<view class="part2" style="margin-top:50rpx;">
+<label class="labela">确认密码：</label>
+<input placeholder="请输入密码" focus type="password" bindchange="checkPwd"/>
+
+</view>
+
+<view class="but">
+<button bindtap="addValue">确认</button>
+</view>
+
+<view class="order">
+<icon type="success" />
+<text>我已阅读并同意</text>
+<text style="color:#3da3dc;font-weight:700">美团网用户协议</text>
+</view>
+
+
+
+
+</view>
+

@@ -1,0 +1,6 @@
+{   "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#db403b",
+    "navigationBarTitleText": "选座",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true
+}
